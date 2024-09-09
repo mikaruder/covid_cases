@@ -1,4 +1,5 @@
 import pandas as pd
+from ydata_profiling import ProfileReport
 import numpy as np
 import seaborn as sns
 from matplotlib import pyplot as plt
